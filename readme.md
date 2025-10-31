@@ -2,4 +2,6 @@ Hi, I am trying to make new custom themes for vencord. Idk if I will succeed wit
 
 My discord is roroland01 - dm me if you want help with themes
 
+Discord server for more info:
+https://discord.gg/JjhJpTHgPq
 
